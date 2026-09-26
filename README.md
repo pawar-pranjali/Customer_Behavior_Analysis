@@ -165,7 +165,7 @@ The dashboard presents important KPIs, trends, comparisons, and patterns identif
 * Summary of key insights
 
 ### Dashboard Preview
-<img width="1227" height="686" alt="WhatsApp Image 2026-09-26 at 3 03 17 AM" src="https://github.com/user-attachments/assets/31673fc3-2c46-47ae-b42e-038f55f20012" />
+<img width="1233" height="680" alt="WhatsApp Image 2026-09-26 at 3 13 09 PM" src="https://github.com/user-attachments/assets/16362675-eb3d-41ac-b123-1ed51f78f87a" />
 
 
 ## 📈 Key Results & Insights
